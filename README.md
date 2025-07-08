@@ -29,6 +29,10 @@ I'm eager to contribute to **real-world tech projects**, collaborate with interd
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![ROS1](https://img.shields.io/badge/-ROS1-22314E?style=flat&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/-Gazebo-8D3DAF?style=flat&logo=OpenSourceInitiative&logoColor=white)
+![RViz](https://img.shields.io/badge/-RViz-4D8DCB?style=flat&logo=Ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ### 🔧 Frameworks & Tools
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
